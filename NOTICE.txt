@@ -1,0 +1,18 @@
+HyperGesture
+Copyright 2026 Mohammad Alnashawati.
+
+HyperGesture is a separately built app with its own interface and custom
+integration for the supplied HyperOS 3 / Android 15 APKs. It is not an official
+release of GloriousApps or Xiaomi. App authorship and branding belong to
+Mohammad Alnashawati; third-party notices below apply to referenced/adapted work.
+
+Third-party acknowledgements
+
+Launcher eligibility and fallback Overview routing were informed by and adapted from
+GloriousApps/HyperOS-Gestures-Activator, licensed under Apache License 2.0.
+https://github.com/GloriousApps/HyperOS-Gestures-Activator
+Upstream credits the initial LSPosed integration approach to MiuiBackGestureHook 0.4.0.
+This project uses classic Xposed API 82, the supplied Android 15 SystemUI guard,
+and the supplied launcher CircleToSearch guard; it is not an upstream release.
+No Xiaomi APKs or full decompiled sources are distributed in this archive.
+

@@ -1,0 +1,2 @@
+<resources><string-array name="xposed_scope"><item>com.miui.home</item><item>com.android.systemui</item></string-array></resources>
+

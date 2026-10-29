@@ -1,0 +1,23 @@
+# Build outputs and local tools
+/build/
+/.tools/
+/local.properties
+*.apk
+*.idsig
+*.dex
+*.class
+*.jar
+# Signing material and private environment
+*.p12
+*.pfx
+*.jks
+*.keystore
+.env
+.env.*
+# Local IDE/cache files
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+.DS_Store
+
